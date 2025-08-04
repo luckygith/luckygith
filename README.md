@@ -1,7 +1,5 @@
 Hi there, I’m Luckylin 👋
 
-
-
 I’m a Full-Stack Software Engineer in training with a background as a denturist, transitioning my attention to detail and problem-solving skills into the world of web development. I enjoy building responsive, user-focused applications and exploring the full stack—from front-end interfaces to back-end servers and databases.
 
 🛠 Skills & Tools
@@ -9,9 +7,10 @@ Languages: JavaScript (ES6+), HTML5, CSS3
 Front End: React, Vite, Context API, React Router
 Back End: Node.js, Express.js, MongoDB, REST APIs
 Other: Git, GitHub, Postman, PM2, Nginx, Google Cloud, SSL/HTTPS
-Currently Learning: Full-stack app deployment, authentication & authorization
+Currently Learning: Full-stack app deployment, authentication & authorization, Python, ReactNative
 
 🚀 🔭 Projects I’m Working On
+
 Here are some of my featured projects:
 
 WTWR (What to Wear?) – A full-stack weather-based wardrobe app
@@ -26,8 +25,6 @@ Tech: HTML5, CSS3, Flexbox
 - Secure authentication and authorization for full-stack apps
 - Responsive, accessible front-end designs using React and CSS
 - Deployment pipelines using Google Cloud, Nginx, PM2, and SSL
-- Python
-- ReactNative
 
 📫 Let’s Connect!
 GitHub: @luckygith
