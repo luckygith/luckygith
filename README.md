@@ -27,9 +27,10 @@ Tech: HTML5, CSS3, Flexbox
 - Deployment pipelines using Google Cloud, Nginx, PM2, and SSL
 
 📫 Let’s Connect!
+
 GitHub: @luckygith
 Portfolio (coming soon!)
-LinkedIn (optional if you want to add)
+
 
 
 - ⚡ Fun fact: I have a dental background and have worked with clinical CAM/CAM technology
